@@ -10,7 +10,7 @@ Gestion d'erreur avec affichage d'un message d'erreur - OK
 
 Certains textes cachés en fonction de si le téléphone est connecté à internet ou non - OK
 
-Menu vers page secondaire - OK
+Menu vers la page secondaire - OK
 
 // PAGE SECONDAIRE 
 
