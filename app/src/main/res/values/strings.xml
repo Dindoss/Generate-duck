@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP_Rendu_Kotlin</string>
+    <string name="btn_reload">Génération</string>
+    <string name="txt_reload">Cliquez sur le bouton pour générer une image</string>
+    <string name="img_reload">Img random duck</string>
+    <string name="title_activity_random">RandomDuck</string>
+
+    <string name="img_http">Http duck</string>
+    <string name="txt_info">Cliquez sur le bouton pour générer une image</string>
+</resources>
