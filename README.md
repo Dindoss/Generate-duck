@@ -10,6 +10,8 @@ Gestion d'erreur avec affichage d'un message d'erreur - OK
 
 Certains textes cachés en fonction de si le téléphone est connecté à internet ou non - OK
 
+Menu vers page secondaire - OK
+
 // PAGE SECONDAIRE 
 
 Génération img/gif canard sur page secondaire grâce à un bouton de génération - OK 
@@ -17,3 +19,5 @@ Génération img/gif canard sur page secondaire grâce à un bouton de générat
 Gestion d'erreur avec affichage d'un message d'erreur - OK
 
 Certains textes cachés en fonction de si le téléphone est connecté à internet ou non - OK
+
+Flèche retour vers page main - OK
